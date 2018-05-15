@@ -1,0 +1,5 @@
+F:\Users\project0\Projects\Csharp01\delegate_01\0001-Event01\bin\Debug\0001-Event01.exe.config
+F:\Users\project0\Projects\Csharp01\delegate_01\0001-Event01\bin\Debug\0001-Event01.exe
+F:\Users\project0\Projects\Csharp01\delegate_01\0001-Event01\bin\Debug\0001-Event01.pdb
+F:\Users\project0\Projects\Csharp01\delegate_01\0001-Event01\obj\Debug\0001-Event01.exe
+F:\Users\project0\Projects\Csharp01\delegate_01\0001-Event01\obj\Debug\0001-Event01.pdb
