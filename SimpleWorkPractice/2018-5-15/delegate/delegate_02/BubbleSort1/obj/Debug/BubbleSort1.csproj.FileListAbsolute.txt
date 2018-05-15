@@ -1,0 +1,6 @@
+F:\Users\project0\Projects\Csharp01\delegate_01\BubbleSort1\bin\Debug\BubbleSort1.exe.config
+F:\Users\project0\Projects\Csharp01\delegate_01\BubbleSort1\bin\Debug\BubbleSort1.exe
+F:\Users\project0\Projects\Csharp01\delegate_01\BubbleSort1\bin\Debug\BubbleSort1.pdb
+F:\Users\project0\Projects\Csharp01\delegate_01\BubbleSort1\obj\Debug\BubbleSort1.csprojResolveAssemblyReference.cache
+F:\Users\project0\Projects\Csharp01\delegate_01\BubbleSort1\obj\Debug\BubbleSort1.exe
+F:\Users\project0\Projects\Csharp01\delegate_01\BubbleSort1\obj\Debug\BubbleSort1.pdb

@@ -1,0 +1,6 @@
+F:\Users\project0\Projects\Csharp01\delegate_01\delegate_01\bin\Debug\delegate_01.exe.config
+F:\Users\project0\Projects\Csharp01\delegate_01\delegate_01\bin\Debug\delegate_01.exe
+F:\Users\project0\Projects\Csharp01\delegate_01\delegate_01\bin\Debug\delegate_01.pdb
+F:\Users\project0\Projects\Csharp01\delegate_01\delegate_01\obj\Debug\delegate_01.csprojResolveAssemblyReference.cache
+F:\Users\project0\Projects\Csharp01\delegate_01\delegate_01\obj\Debug\delegate_01.exe
+F:\Users\project0\Projects\Csharp01\delegate_01\delegate_01\obj\Debug\delegate_01.pdb
