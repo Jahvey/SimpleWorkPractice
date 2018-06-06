@@ -1,0 +1,8 @@
+E:\CSweety\PDFTOBMP\winApp0100\obj\x86\Debug\winApp0100.Form1.resources
+E:\CSweety\PDFTOBMP\winApp0100\obj\x86\Debug\winApp0100.Properties.Resources.resources
+E:\CSweety\PDFTOBMP\winApp0100\obj\x86\Debug\winApp0100.csproj.GenerateResource.Cache
+E:\CSweety\PDFTOBMP\winApp0100\bin\Debug\winApp0100.exe
+E:\CSweety\PDFTOBMP\winApp0100\bin\Debug\winApp0100.pdb
+E:\CSweety\PDFTOBMP\winApp0100\obj\x86\Debug\winApp0100.exe
+E:\CSweety\PDFTOBMP\winApp0100\obj\x86\Debug\winApp0100.pdb
+E:\CSweety\PDFTOBMP\winApp0100\bin\Debug\winApp0100.exe.config

@@ -1,0 +1,4 @@
+E:\CSweety\PDFTOBMP\winApp0100\cs0102\bin\Debug\cs0102.exe
+E:\CSweety\PDFTOBMP\winApp0100\cs0102\bin\Debug\cs0102.pdb
+E:\CSweety\PDFTOBMP\winApp0100\cs0102\obj\x86\Debug\cs0102.exe
+E:\CSweety\PDFTOBMP\winApp0100\cs0102\obj\x86\Debug\cs0102.pdb
